@@ -25,7 +25,7 @@ import time
 
 
 # You should insert your shodan api key here
-SHODAN_API_KEY = ""
+SHODAN_API_KEY = PSKINdQe1GyxGgecYz2191H2JoS9qvgD
 
 api = shodan.Shodan(SHODAN_API_KEY)
 
